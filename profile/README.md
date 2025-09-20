@@ -21,8 +21,8 @@
   
 |||
 |-|-|
-|<a href="#"><img height="24" src="./assets/flags/brasil.svg" /></a>|[Guia de instalação e resolução de problemas](https://github.com/andistro/app/wiki/pt-BR/README.md)|
-|<a href="#"><img height="24" src="./assets/flags/united_states.svg" /></a>|[Installation and troubleshooting guide](https://github.com/andistro/app/wiki/en-US/README.md)|
+|<a href="#"><img height="24" src="./assets/flags/brasil.svg" /></a>|[Guia de instalação e resolução de problemas](https://github.com/andistro/app/blob/main/wiki/pt-BR/README.md)|
+|<a href="#"><img height="24" src="./assets/flags/united_states.svg" /></a>|[Installation and troubleshooting guide](https://github.com/andistro/app/blob/main/wiki/en-US/README.md)|
   
 </div>
 
