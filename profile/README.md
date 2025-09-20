@@ -102,10 +102,9 @@
   <p>Linux é a marca registada da Linus Torvalds nos EUA e outros países.</p>
 </blockquote>
  
-<!--
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andistro.andistro"  />
 </div>
--->
 
 
