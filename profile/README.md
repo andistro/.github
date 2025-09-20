@@ -27,15 +27,20 @@
 |<a href="#"><img height="24" src="./assets/flags/united_states.svg" /></a>|[Installation and troubleshooting guide](https://github.com/andistro/app/wiki/en-US/README.md)|
   
 </div>
+<hr>
 
 <div align="center">
   <h3>Softwares suportados</h3>
-
   <h4>Navegadores</h4>
-  
-  |||
+
+  |||||
   |-|-|-|-|
   |<a href="#"><img height="100" src="./assets/softwares/brave-browser.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/chromium.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/firefox.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/vivaldi.svg"></a>|
+
+  |||||
+  |-|-|-|-|
+  | | | | |
+
 
 
 </div>
@@ -51,3 +56,9 @@
 <div align="center">
 <a href="#"><img src="./assets/images/mascote.png"></a>
 </div>
+
+<div align="center">
+<a href="#"><img src="https://raw.githubusercontent.com/andistro/andistro/output/snake.svg" alt="Snake animation" /></a>
+</div>
+
+
