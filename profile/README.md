@@ -30,19 +30,32 @@
 <hr>
 
 <div align="center">
-  <h3>Softwares suportados</h3>
-  <h4>Navegadores</h4>
-
-  |||||
-  |-|-|-|-|
+  <h2>Softwares suportados</h2>
+  <h3>Navegadores</h3>
+  
   |<a href="#"><img height="100" src="./assets/softwares/brave-browser.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/chromium.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/firefox.svg"></a>|<a href="#"><img height="100" src="./assets/softwares/vivaldi.svg"></a>|
-
-  |||||
   |-|-|-|-|
-  | | | | |
+  |<div align="center">Brave Browser</div>| <div align="center">Chromium</div> | <div align="center">Firefox</div> | <div align="center">Vivaldi</div> |
 
+  <h3>Gráficos & fotografia</h3>
 
+  | <a href="#"><img height="100" src="./assets/softwares/darktable.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/digikam.svg" ></a> | <a href="#"><img height="100" src="./assets/softwares/figma-linux.svg" ></a> | <a href="#"><img height="100" src="./assets/softwares/gimp.svg" ></a> |
+  |-|-|-|-|
+  | <div align="center">Darktable</div> | <div align="center">DigiKam</div> | <div align="center">Figma Linux</div> | <div align="center">Gimp</div> |
+  
+  | <a href="#"><img height="100" src="./assets/softwares/inkscape.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/penpot.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/photopea.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/raw-therapee.svg"></a> |
+  |-|-|-|-|
+  | <div align="center">Inkscape</div> | <div align="center">Penpot</div> | <div align="center">Photopea</div> | <div align="center">RawTherapee</div> |
 
+  | <a href="#"><img height="100" src="./assets/softwares/scribus.svg"></a> |
+  |-|
+  | <div align="center">Scribus</div> |
+
+<!--  
+  | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> |
+  |-|-|-|-|
+  | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> |
+-->
 </div>
 
 >[!NOTE]
@@ -55,10 +68,6 @@
 </div>
 <div align="center">
 <a href="#"><img src="./assets/images/mascote.png"></a>
-</div>
-
-<div align="center">
-<a href="#"><img src="https://raw.githubusercontent.com/andistro/andistro/output/snake.svg" alt="Snake animation" /></a>
 </div>
 
 
