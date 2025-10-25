@@ -48,7 +48,7 @@
   <h3>Navegadores <br><i>(Browsers)</i></h3>
   
   
-  |<img height="100" src="./assets/softwares/brave-browser.svg">|<img height="100" src="./assets/softwares/chromium.svg">|<img height="100" src="./assets/softwares/firefox.svg">|<img height="100" src="./assets/softwares/vivaldi.svg">|
+  |<img height="100" src="./assets/images/softwares/brave-browser.svg">|<img height="100" src="./assets/images/softwares/chromium.svg">|<img height="100" src="./assets/images/softwares/firefox.svg">|<img height="100" src="./assets/images/softwares/vivaldi.svg">|
   |-|-|-|-|
   |<div align="center">Brave Browser</div>| <div align="center">Chromium</div> | <div align="center">Firefox</div> | <div align="center">Vivaldi</div> |
 
@@ -56,15 +56,15 @@
   
   <h3>Gráficos & fotografia <br><i>(Graphics & photography)</i></h3>
 
-  |<img height="100" src="./assets/softwares/darktable.svg">|<img height="100" src="./assets/softwares/digikam.svg" >|<img height="100" src="./assets/softwares/figma-linux.svg" >|<img height="100" src="./assets/softwares/gimp.svg" >|
+  |<img height="100" src="./assets/images/softwares/darktable.svg">|<img height="100" src="./assets/images/softwares/digikam.svg" >|<img height="100" src="./assets/images/softwares/figma-linux.svg" >|<img height="100" src="./assets/images/softwares/gimp.svg" >|
   |-|-|-|-|
   |<div align="center">Darktable</div> | <div align="center">DigiKam</div> | <div align="center">Figma Linux</div> | <div align="center">Gimp</div> |
   
-  |<img height="100" src="./assets/softwares/inkscape.svg">|<img height="100" src="./assets/softwares/penpot.svg">|<img height="100" src="./assets/softwares/photopea.svg">|<img height="100" src="./assets/softwares/raw-therapee.svg">|
+  |<img height="100" src="./assets/images/softwares/inkscape.svg">|<img height="100" src="./assets/images/softwares/penpot.svg">|<img height="100" src="./assets/images/softwares/photopea.svg">|<img height="100" src="./assets/images/softwares/raw-therapee.svg">|
   |-|-|-|-|
   | <div align="center">Inkscape</div> | <div align="center">Penpot</div> | <div align="center">Photopea</div> | <div align="center">RawTherapee</div> |
 
-  |<img height="100" src="./assets/softwares/scribus.svg">|
+  |<img height="100" src="./assets/images/softwares/scribus.svg">|
   |-|
   | <div align="center">Scribus</div> |
 
@@ -72,12 +72,12 @@
 
   <h3>Produtividade <br><i>(Productivity)</i></h3>
 
-  |<img height="100" src="./assets/softwares/libre-office.svg">|
+  |<img height="100" src="./assets/images/softwares/libre-office.svg">|
   |-|
   | <div align="center">Libre Office</div> |
 
 <!--  
-  | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/softwares/.svg"></a> |
+  | <a href="#"><img height="100" src="./assets/images/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/images/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/images/softwares/.svg"></a> | <a href="#"><img height="100" src="./assets/images/softwares/.svg"></a> |
   |-|-|-|-|
   | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> | <div align="center"></div> |
 -->
