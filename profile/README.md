@@ -22,9 +22,9 @@
 
 <div align="center">
   
-  |<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](https://github.com/andistro/app/blob/main/wiki/pt-BR/README.md)|
+  |<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](https://github.com/andistro/wiki/tree/main/pt-BR#readme)|
   |-|-|
-  |<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](https://github.com/andistro/app/blob/main/wiki/en-US/README.md)|
+  |<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](https://github.com/andistro/wiki/tree/main/en-US#readme)|
   
 </div>
 
