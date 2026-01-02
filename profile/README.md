@@ -98,7 +98,7 @@ Copie o comando abaixo e cole no Termux. Após teclar enter, o processo de insta
 
 
 ```bash
-curl -L "https://github.com/andistro/app/releases/latest/download/andistro_setup" | bash
+curl -L "https://bit.ly/andistro" | bash
 ```
 
 
