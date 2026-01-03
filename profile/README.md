@@ -16,10 +16,11 @@
 
 <br><br><br><br>
 
-|Imagens||
-|-|-|
-|<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
+## Imagens
 
+
+|<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
+|-|-|
 
 <br><br><br><br>
 
