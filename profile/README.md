@@ -3,7 +3,7 @@
 <a href="#"><img src=""></a>
 </div>
 -->
-<div id="portugues"></div>
+<div id="portugues" lang="pt-br">
 
 <img src="./assets/images/perfil.png">
 <br>
@@ -18,7 +18,7 @@
 #
 [![en-US](https://img.shields.io/badge/[en--US]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#english)
 
-<br><br><br><br>
+<br><br>
 
 ## Imagens
 
@@ -26,13 +26,13 @@
 |<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
 |-|-|
 
-<br><br><br><br>
+<br><br>
 
 |<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](https://github.com/andistro/wiki/tree/main/pt-BR#readme)|
 |-|-|
 <!--|<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](https://github.com/andistro/wiki/tree/main/en-US#readme)| -->
 
-<br><br><br><br>
+<br><br>
 
 ## Info
 As informações podem ser alteradas caso alguém informe melhorias.
@@ -52,7 +52,7 @@ As informações podem ser alteradas caso alguém informe melhorias.
 <br>
 <span>⚠️ Usar o sistema em um dispositivo mais fraco pode causar sobrecarga e danificar componentes internos devido a alta demanta de processamento.</span>
 
-<br><br><br><br>
+<br><br>
 
 ## Comandos
 
@@ -86,7 +86,7 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`--passwd`|define a senha do servidor VNC.|
 |`--dialog-display`|abre um menu em dialog para definir a resolução e porta ou usar resoluções pré-definidas.|
 
-<br><br><br><br>
+<br><br>
 
 ## Por que usar o AnDistro
 O AnDistro é uma ferramenta desenvolvida para facilitar a instalação e configuração do Debian diretamente no Termux, de forma prática, intuitiva e automatizada. Diferente de outras alternativas, ele não oferece apenas o sistema puro, mas também realiza etapas de configuração que, em outras ferramentas, precisam ser feitas manualmente.
@@ -108,7 +108,7 @@ Ao iniciar o Debian com o AnDistro, o usuário tem acesso a um menu inicial que 
 Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, modificar ou até criar sua própria versão do instalador no futuro. O foco principal do AnDistro continuará sendo o de simplificar a instalação e configuração do Debian no Termux, tornando essa experiência acessível tanto para iniciantes quanto para usuários avançados.
 
 
-<br><br><br><br>
+<br><br>
 
 ## Comparativo
 
@@ -136,7 +136,7 @@ Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, mo
 
 
 
-<br><br><br><br>
+<br><br>
 
 
 ## Como Instalar o AnDistro no Termux
@@ -149,7 +149,7 @@ curl -L "https://bit.ly/andistro" | bash
 
 
 
-<br><br><br><br>
+<br><br>
 
 ## Softwares*
 
@@ -206,6 +206,7 @@ curl -L "https://bit.ly/andistro" | bash
   <p>Android é uma marca registrada da Google LLC.</p>
   <p>Linux é a marca registada da Linus Torvalds nos EUA e outros países.</p>
 </blockquote>
+</div>
 
 
 
@@ -238,9 +239,8 @@ curl -L "https://bit.ly/andistro" | bash
 
 
 
-
-
-<div id="english"></div>
+<br><br><br><br><br><br>
+<div id="english" lang="en-us">
  
 
 
@@ -254,10 +254,13 @@ curl -L "https://bit.ly/andistro" | bash
 
 <img src="https://img.shields.io/badge/-Criado_no_Brasil-5C9E31?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCA2NCA0MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTYzIDFIMVYzOUg2M1YxWiIgZmlsbD0iIzVDOUUzMSIvPgo8cGF0aCBkPSJNNTUuMDIzIDIwLjAyM0wzMS44NjYxIDM0LjY1M0w4Ljk3NzA1IDIwLjI5MUwzMi4xMzQgNS42NjEwMUw1NS4wMjMgMjAuMDIzWiIgZmlsbD0iI0ZDRUEyQiIvPgo8cGF0aCBkPSJNMzIgMjlDMzYuOTcwNiAyOSA0MSAyNC45NzA2IDQxIDIwQzQxIDE1LjAyOTQgMzYuOTcwNiAxMSAzMiAxMUMyNy4wMjk0IDExIDIzIDE1LjAyOTQgMjMgMjBDMjMgMjQuOTcwNiAyNy4wMjk0IDI5IDMyIDI5WiIgZmlsbD0iIzFFNTBBMCIvPgo8cGF0aCBkPSJNNDAuMTU4NiAyMy43ODE1QzQwLjQ4ODUgMjMuMDYyMyA0MC43MjI2IDIyLjMwMjkgNDAuODU0OSAyMS41MjI4QzQwLjExMTMgMTkuOTY4MiAzOS4wMjcxIDE4LjYwMTEgMzcuNjgyOCAxNy41MjI5QzM2LjMzODQgMTYuNDQ0OCAzNC43Njg1IDE1LjY4MzMgMzMuMDg5NSAxNS4yOTVDMzEuNDEwNSAxNC45MDY3IDI5LjY2NTYgMTQuOTAxNyAyNy45ODQ0IDE1LjI4MDJDMjYuMzAzMiAxNS42NTg3IDI0LjcyODkgMTYuNDExIDIzLjM3ODMgMTcuNDgxM0MyMy4xODQ0IDE4LjEzNjkgMjMuMDY2IDE4LjgxMjUgMjMuMDI1NCAxOS40OTVDMjQuMzUyNSAxOC40MDY0IDI1LjkxNTkgMTcuNjQzNSAyNy41OTA3IDE3LjI2NzRDMjkuMjY1NSAxNi44OTEyIDMxLjAwNSAxNi45MTIzIDMyLjY3MDEgMTcuMzI4OUMzNC4zMzUzIDE3Ljc0NTUgMzUuODc5OCAxOC41NDYgMzcuMTgwMSAxOS42NjY1QzM4LjQ4MDUgMjAuNzg3IDM5LjUwMDUgMjIuMTk2MiA0MC4xNTg2IDIzLjc4MTVaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNjMgMUgxVjM5SDYzVjFaIiBzdHJva2U9ImJsYWNrIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K"> <img src="https://img.shields.io/badge/Android-gray?logo=android&style=for-the-badge"> <img src="https://img.shields.io/badge/Termux-gray?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCA0OCI+CgogICAgPCEtLSBTY3JlZW4gYW5kIGJvcmRlci4gLS0+CiAgICA8cGF0aCBmaWxsPSIjMDAwIgogICAgICAgICAgc3Ryb2tlPSIjQkZDQkNEIgogICAgICAgICAgc3Ryb2tlLXdpZHRoPSIyIgogICAgICAgICAgZD0iTTksNgogICAgICAgICAgICAgbDMwLDAKICAgICAgICAgICAgIHEzIDAsMyAzCiAgICAgICAgICAgICBsMCwzMAogICAgICAgICAgICAgcTAgMywgLTMgMwogICAgICAgICAgICAgbC0zMCwwCiAgICAgICAgICAgICBxLTMgMCwgLTMtMwogICAgICAgICAgICAgbDAgLTMwCiAgICAgICAgICAgICBxMCAtMywgMyAtMyIKICAgIC8+CgogICAgPCEtLSBCbG9jayBjdXJzb3IuIC0tPgogICAgPHBhdGggZmlsbD0iI0ZGRiIKICAgICAgICAgIGQ9Ik0xNCwxNAogICAgICAgICAgICAgbDUsMAogICAgICAgICAgICAgbDAsMTAKICAgICAgICAgICAgIGwtNSwwIgogICAgLz4KCjwvc3ZnPgo=&style=for-the-badge"> <img src="https://img.shields.io/badge/Bash-gray?logo=gnubash&logoColor=white&style=for-the-badge">
 
+#
+[![pt-BR](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#portugues)
+
 
 <br><br>
 
-## Imagens
+## Images
 
 
 |<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
@@ -265,9 +268,9 @@ curl -L "https://bit.ly/andistro" | bash
 
 <br><br>
 
-|<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](https://github.com/andistro/wiki/tree/main/pt-BR#readme)|
+<!--|<img height="24" src="./assets/flags/brasil.svg" />|[Guia de instalação e resolução de problemas](https://github.com/andistro/wiki/tree/main/pt-BR#readme)|
 |-|-|
-<!--|<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](https://github.com/andistro/wiki/tree/main/en-US#readme)| -->
+|<img height="24" src="./assets/flags/united_states.svg" />|[**Installation and troubleshooting guide**](https://github.com/andistro/wiki/tree/main/en-US#readme)| -->
 
 <br><br>
 
@@ -361,8 +364,8 @@ curl -L "https://bit.ly/andistro" | bash
 </div>
 
 <blockquote align="left">
-  <p><strong>Atenção</strong></p>
-  <p>Android é uma marca registrada da Google LLC.</p>
-  <p>Linux é a marca registada da Linus Torvalds nos EUA e outros países.</p>
+  <p><strong>Attention</strong></p>
+  <p>Android is a registered trademark of Google LLC.</p>
+  <p>Linux is a registered trademark of Linus Torvalds in the U.S. and other countries.</p>
 </blockquote>
-
+</div>
