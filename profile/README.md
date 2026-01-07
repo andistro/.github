@@ -3,6 +3,8 @@
 <a href="#"><img src=""></a>
 </div>
 -->
+<div id="portugues"></div>
+
   <img src="./assets/images/perfil.png">
   <br>
   <a href="https://www.linkedin.com/company/andistro/" target="about:blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yNCAyLjE0Mjg2VjIxLjg1NzFDMjQgMjMuMDQgMjMuMDQgMjQgMjEuODU3MSAyNEgyLjE0Mjg2QzAuOTYgMjQgMCAyMy4wNCAwIDIxLjg1NzFWMi4xNDI4NkMwIDAuOTYgMC45NiAwIDIuMTQyODYgMEgyMS44NTcxQzIzLjA0IDAgMjQgMC45NiAyNCAyLjE0Mjg2Wk04LjU3MTQzIDguNTcxNDNIMTEuNzQyOVYxMC4zMTMxSDExLjgxNjZDMTIuNDQ0IDkuNDk4ODYgMTMuNzQ1MSA4LjQ2NTE0IDE1Ljg1NzEgOC40NjUxNEMxOS4wNzE0IDguNDY1MTQgMjAuNTcxNCA5Ljk1NjU3IDIwLjU3MTQgMTMuNzE0M1YyMC41NzE0SDE3LjE0MjlWMTVDMTcuMTQyOSAxMi41MzY2IDE2LjU4MDYgMTEuNzg1NyAxNC43OTc3IDExLjc4NTdDMTIuODU3MSAxMS43ODU3IDEyIDEzLjI4NTcgMTIgMTUuNDI4NlYyMC41NzE0SDguNTcxNDNWOC41NzE0M1pNMy40Mjg1NyAyMC41NzE0SDYuODU3MTRWOC41NzE0M0gzLjQyODU3VjIwLjU3MTRaTTcuNDMxNDMgNS4xNDI4NkM3LjQzMTQzIDYuNDA2MjkgNi40MDYyOSA3LjQzMTQzIDUuMTQyODYgNy40MzE0M0MzLjg3OTQzIDcuNDMxNDMgMi44NTQyOSA2LjQwNjI5IDIuODU0MjkgNS4xNDI4NkMyLjg1NDI5IDMuODc5NDMgMy44Nzk0MyAyLjg1NDI5IDUuMTQyODYgMi44NTQyOUM2LjQwNjI5IDIuODU0MjkgNy40MzE0MyAzLjg3OTQzIDcuNDMxNDMgNS4xNDI4NloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&style=for-the-badge"></a>
@@ -113,11 +115,12 @@ Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, mo
 |Idioma da ferramenta|🇧🇷 Português,<br>🇺🇸 Inglês¹| 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês |
 |Código aberto|✅ Sim|✅ Sim|✅Sim|✅ Sim |✅ Sim|❌ Não|
 |Preço|✅ Gratuito|⚠️ Freemium|✅ Gratuito|✅ Gratuito|⚠️ Freemium|✅ Gratuito
-|Depende de aplicativos <br>terceiros|⚠️ Sim|⚠️ Sim|✅ Não. Usa uma extensão própria|⚠️ Sim|✅ Não|✅ Não|
-|Aplicativos de terceiros necessários| Termux, Termux:API, <br>AVNC² ou qualquer outro visualizador VNC| Termux, VNC |Termux, Termux-X11| Termux, VNC | Aplicatívo próprio |Aplicatívo próprio |
 |Requer root|✅ Não|✅ Não|✅ Não|✅ Não|✅ Não|✅ Não|
-|Distros suportadas|Debian|Alpine Linux, Arch Linux, Debian, Fedora, Manjaro, Kali Linux, Ubuntu, Void|Adelie Linux, AlmaLinux, Alpine Linux, Arch Linux, Artix Linux, Chimera Linux, Debian, Deepin, Fedora, Manjaro, OpenSuse, Oracle Linux, Pardus, Rocky Linux, Trisquel, Ubuntu, Void Linux, Guix, NixOS |Ubuntu|Alpine, Arch,<br>Debian, Kali Linux, Ubuntu|
+|Depende de aplicativos <br>terceiros|⚠️ Sim|⚠️ Sim|✅ Não. Usa uma extensão própria|⚠️ Sim|✅ Não|✅ Não|
 |Idioma da <br>distribuição instalada| ✅ Identifica o idioma do sistema Android | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês |
+|Ofereçe ferramentas ú||
+|Aplicativos de terceiros necessários| Termux, Termux:API, <br>AVNC² ou qualquer outro visualizador VNC| Termux, VNC |Termux, Termux-X11| Termux, VNC | Aplicatívo próprio |Aplicatívo próprio |
+|Distros suportadas|Debian|Alpine Linux, Arch Linux, Debian, Fedora, Manjaro, Kali Linux, Ubuntu, Void|Adelie Linux, AlmaLinux, Alpine Linux, Arch Linux, Artix Linux, Chimera Linux, Debian, Deepin, Fedora, Manjaro, OpenSuse, Oracle Linux, Pardus, Rocky Linux, Trisquel, Ubuntu, Void Linux, Guix, NixOS |Ubuntu|Alpine, Arch,<br>Debian, Kali Linux, Ubuntu|
 |Suporte a GUI/Desktop|XFCE, LXDE|XFCE, LXDE, LXQT||XFCE4, Gnome| XFCE, LXDE
 |Arquiteturas suportadas|ARM| ARM| ARM, x86_64 | ARM |
 |Processo de instalação da distribuição Linux| Interface gráfica com dialogos intuitivos ou padrão de termonal linux | Padrão de terminal linux | Padrão de terminal linux | Padrão de terminal linux | Instalação com interface gráfica ou padrão de terminal linux |
@@ -201,6 +204,8 @@ curl -L "https://bit.ly/andistro" | bash
   <p>Android é uma marca registrada da Google LLC.</p>
   <p>Linux é a marca registada da Linus Torvalds nos EUA e outros países.</p>
 </blockquote>
+
+<div id="english"></div>
  
 
 
