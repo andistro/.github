@@ -239,7 +239,7 @@ curl -L "https://bit.ly/andistro" | bash
 
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div id="english" lang="en-us">
 
 <img src="./assets/images/perfil.png">
