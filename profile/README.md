@@ -54,33 +54,33 @@ As informações podem ser alteradas caso alguém informe melhorias.
 
 |Opções|Descrição|
 |-|-|
-|**Exclusivas Termux**|Opções para serem usadas exclusivamente no Termux|
-|`andistro`|inicia o menu gráfico do AnDistro no modo dialógo|
-|`andistro terminal`|inicia com a visualização padrão do terminal|
-|`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão disponível|
-|`andistro -i`|inicia as configurações de instalação do Debian|
-|`andistro -d`|desinstala o Debian|
-|`andistro -d andistro`|desinstala o AnDistro|
-|`andistro --setup storage-permission`|verifica e permite o acesso ao armazenamento do aparelho|
-|`andistro --setup battery`|abre as configurações do aparelho para remover a restrição da bateria|
-|`andistro --setup enable-dev-mode`|abre as configurações para habilitar o modo desenvolvedor|
-|`andistro --setup open-dev-mode`|abre as configurações do modo desenvolvedor|
-|`andistro --setup install-avnc`|abre o link para baixar o AVNC|
+|**Exclusivas Termux**|Opções para serem usadas exclusivamente no Termux.|
+|`andistro`|inicia o menu gráfico do AnDistro no modo dialógo.|
+|`andistro terminal`|inicia com a visualização padrão do terminal.|
+|`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão disponível.|
+|`andistro -i`|inicia as configurações de instalação do Debian.|
+|`andistro -d`|desinstala o Debian.|
+|`andistro -d andistro`|desinstala o AnDistro.|
+|`andistro --setup storage-permission`|verifica e permite o acesso ao armazenamento do aparelho.|
+|`andistro --setup battery`|abre as configurações do aparelho para remover a restrição da bateria.|
+|`andistro --setup enable-dev-mode`|abre as configurações para habilitar o modo desenvolvedor.|
+|`andistro --setup open-dev-mode`|abre as configurações do modo desenvolvedor.|
+|`andistro --setup install-avnc`|abre o link para baixar o AVNC.|
 |`andistro --setup autoboot`|habilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux|
-|`andistro --setup autoboot-disable`|desaabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux|
-|`andistro --setup adb-pair`|parea o termux ao ADB pela depuração por Wi-Fi|
-|`andistro --setup adb-connect`|conecta o Termux ao ADB pela depuração por Wi-Fi|
-|`andistro --setup disable-ghost-process-monitor`|desabilita o monitor de processos fantasma. O causador do `[Process completed (signal 9) ‐ press Enter]`|
+|`andistro --setup autoboot-disable`|desaabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux.|
+|`andistro --setup adb-pair`|parea o termux ao ADB pela depuração por Wi-Fi.|
+|`andistro --setup adb-connect`|conecta o Termux ao ADB pela depuração por Wi-Fi.|
+|`andistro --setup disable-ghost-process-monitor`|desabilita o monitor de processos fantasma. O causador do `[Process completed (signal 9) ‐ press Enter]`.|
 |||
 |**Exclusivas Debian**|Opções para serem usadas exclusivamente no Debian.|
-|`andistro`|inicia com a visualização padrão do terminal|
-|`andistro --boot vnc`|inicia o servidor VNC nas definições padrão do sistema|
-|**Opções do `andistro --boot vnc`**|Opções para serem usadas após o `andistro --boot vnc` <opções>|
-|`--display` "LARGURAxALTURA"|opicional. Caso use, irá definir a resolução de exibição do sistema no VNC. Pode ser usada antes ou depois do `--port`|
-|`--port` "NÚMERO"|opicional. Caso use, irá definir a porta do servidor VNC. O padrão é 1. Pode ser usada antes ou depois do `--display`|
-|`--kill`|encerra o servidor VNC por completo|
-|`--passwd`|define a senha do servidor VNC|
-|`--dialog-display`|abre um menu em dialog para definir a resolução e porta ou usar resoluções pré-definidas|
+|`andistro`|inicia com a visualização padrão do terminal.|
+|`andistro --boot vnc`|inicia o servidor VNC nas definições padrão do sistema.|
+|**Opções do `andistro --boot vnc`**|Opções para serem usadas após o `andistro --boot vnc` <opções>.|
+|`--display` "LARGURAxALTURA"|opicional. Caso use, irá definir a resolução de exibição do sistema no VNC. Pode ser usada antes ou depois do `--port`.|
+|`--port` "NÚMERO"|opicional. Caso use, irá definir a porta do servidor VNC. O padrão é 1. Pode ser usada antes ou depois do `--display`.|
+|`--kill`|encerra o servidor VNC por completo.|
+|`--passwd`|define a senha do servidor VNC.|
+|`--dialog-display`|abre um menu em dialog para definir a resolução e porta ou usar resoluções pré-definidas.|
 
 <br><br><br><br>
 
