@@ -59,7 +59,7 @@ As informações podem ser alteradas caso alguém informe melhorias.
 
 |Opções|Descrição|
 |-|-|
-|**Exclusivas Termux**|Opções para serem usadas exclusivamente no Termux.|
+|**No Termux**|Opções para serem usadas exclusivamente no Termux.|
 |`andistro`|inicia o menu gráfico do AnDistro no modo dialógo.|
 |`andistro terminal`|inicia com a visualização padrão do terminal.|
 |`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão disponível.|
@@ -72,12 +72,12 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`andistro --setup open-dev-mode`|abre as configurações do modo desenvolvedor.|
 |`andistro --setup install-avnc`|abre o link para baixar o AVNC.|
 |`andistro --setup autoboot`|habilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux|
-|`andistro --setup autoboot-disable`|desaabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux.|
+|`andistro --setup autoboot-disable`|desabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux.|
 |`andistro --setup adb-pair`|parea o termux ao ADB pela depuração por Wi-Fi.|
 |`andistro --setup adb-connect`|conecta o Termux ao ADB pela depuração por Wi-Fi.|
 |`andistro --setup disable-ghost-process-monitor`|desabilita o monitor de processos fantasma. O causador do `[Process completed (signal 9) ‐ press Enter]`.|
 |||
-|**Exclusivas Debian**|Opções para serem usadas exclusivamente no Debian.|
+|**No Debian**|opções para serem usadas exclusivamente no Debian.|
 |`andistro`|inicia com a visualização padrão do terminal.|
 |`andistro --boot vnc`|inicia o servidor VNC nas definições padrão do sistema.|
 |**Opções do `andistro --boot vnc`**|Opções para serem usadas após o `andistro --boot vnc` <opções>.|
@@ -117,22 +117,30 @@ Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, mo
 |-|-|-|-|-|-|-|
 |Idioma da ferramenta|🇧🇷 Português,<br>🇺🇸 Inglês¹| 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês |
 |Código aberto|✅ Sim|✅ Sim|✅Sim|✅ Sim |✅ Sim|❌ Não|
-|Preço|✅ Gratuito|⚠️ Freemium|✅ Gratuito|✅ Gratuito|⚠️ Freemium|✅ Gratuito
+|Preço|✅ Gratuito|⚠️ Freemium|✅ Gratuito|✅ Gratuito|⚠️ Freemium|✅ Gratuito|
+|Pré-configurado|✅ Sim|✅ Sim|❌ Não|✅ Sim|⚠️ Depende do preço|✅ Sim|
+|Tem a saída de áudio habilitada|✅ Sim|⚠️ Depende do preço|⚠️ Configuração manual| ℹ️ Sem informações | ℹ️ Sem informações |ℹ️ Sem informações|
+|Pré-configura os driver gráficos?|✅ Sim|❌ Não|⚠️ Configuraçao manual|ℹ️ Sem informações|ℹ️ Sem informações|ℹ️ Sem informações|
 |Requer root|✅ Não|✅ Não|✅ Não|✅ Não|✅ Não|✅ Não|
 |Depende de aplicativos <br>terceiros|⚠️ Sim|⚠️ Sim|✅ Não. Usa uma extensão própria|⚠️ Sim|✅ Não|✅ Não|
-|Idioma da <br>distribuição instalada| ✅ Identifica o idioma do sistema Android | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês |
-|Ofereçe ferramentas ú||
+|Idioma da <br>distribuição instalada| ✅ Usa o mesmo do sistema Android | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês | 🇺🇸 Inglês |
+|Tem comcomando para facilitar o pareamento ADB?|✅ Sim|❌ Não tem a opção, somente uma documentação|⚠️ Pode fazer de forma manual. Exige conhecimento|❌ Não tem a opção, somente uma documentação | ℹ️ Sem informações |ℹ️ Sem informações 
+|Tem comcomando para facilitar a conexão ADB?| ✅ Sim|❌ Não tem a opção, somente uma documentação|⚠️ Pode fazer de forma manual. Exige conhecimento|❌ Não tem a opção, somente uma documentação |ℹ️ Sem informações |ℹ️ Sem informações 
+||
 |Aplicativos de terceiros necessários| Termux, Termux:API, <br>AVNC² ou qualquer outro visualizador VNC| Termux, VNC |Termux, Termux-X11| Termux, VNC | Aplicatívo próprio |Aplicatívo próprio |
 |Distros suportadas|Debian|Alpine Linux, Arch Linux, Debian, Fedora, Manjaro, Kali Linux, Ubuntu, Void|Adelie Linux, AlmaLinux, Alpine Linux, Arch Linux, Artix Linux, Chimera Linux, Debian, Deepin, Fedora, Manjaro, OpenSuse, Oracle Linux, Pardus, Rocky Linux, Trisquel, Ubuntu, Void Linux, Guix, NixOS |Ubuntu|Alpine, Arch,<br>Debian, Kali Linux, Ubuntu|
 |Suporte a GUI/Desktop|XFCE, LXDE|XFCE, LXDE, LXQT||XFCE4, Gnome| XFCE, LXDE
 |Arquiteturas suportadas|ARM| ARM| ARM, x86_64 | ARM |
-|Processo de instalação da distribuição Linux| Interface gráfica com dialogos intuitivos ou padrão de termonal linux | Padrão de terminal linux | Padrão de terminal linux | Padrão de terminal linux | Instalação com interface gráfica ou padrão de terminal linux |
+|Processo de instalação da distribuição Linux| Interface gráfica com dialogos intuitivos ou padrão de terminal linux | Padrão de terminal linux | Padrão de terminal linux | Padrão de terminal linux | Instalação com interface gráfica ou padrão de terminal linux |
+|||
+||<img height="48" src="./assets/images/softwares/andistro.png"><br>AnDistro|<img height="48" src="./assets/images/softwares/andronix.png"><br>Andronix|<img height="48" src="./assets/images/softwares/proot-distro.png"><br>Termux Proot-Distro|<img height="48" src="./assets/images/softwares/udroid.png"><br>Udroid|<img height="48" src="./assets/images/softwares/userland.png"><br>UserLand|<img height="48" src="./assets/images/softwares/xodos.png"><br>Xodos|
+|Total|✅ 9 <br>⚠️ 1<br>❌ 0<br>ℹ️ 0|✅ 3<br>⚠️ 3<br>❌ 3<br>ℹ️ 0|✅ 4<br>⚠️ 4<br>❌ 1<br>ℹ️ 0|✅ 4<br>⚠️ 1<br>❌ 2<br>ℹ️ 2|✅ 3<br>⚠️ 2<br>❌ 0<br>ℹ️ 4|✅ 4<br>⚠️ 0<br>❌ 1<br>ℹ️ 4|
 
 
 <blockquote>
 ¹ A ferramenta tem a pretenção de suportar mais idiomas.
 
-² O AVNC é um aplicativo opcional. Pode usar qualqer outro que suporte visualização VNC.
+² O AVNC é um aplicativo opcional. Pode usar qualquer outro que suporte visualização VNC.
 </blockquote>
 
 
