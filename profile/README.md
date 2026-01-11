@@ -21,7 +21,7 @@
 
 <br><br>
 
-## Imagens
+## 🖼️ Imagens
 
 
 |<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
@@ -35,7 +35,7 @@
 
 <br><br>
 
-## Informações [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#information-)
+## ℹ️ Informações [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#information-)
 As informações podem ser alteradas caso alguém informe melhorias.
 
 ||||
@@ -55,14 +55,18 @@ As informações podem ser alteradas caso alguém informe melhorias.
 
 <br><br>
 
-## Comandos [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#commands-)
+## ⌨️ Comandos [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#commands-)
 
 |Opções|Descrição|
 |-|-|
 |**No Termux**|Opções para serem usadas exclusivamente no Termux.|
-|`andistro`|inicia o menu gráfico do AnDistro no modo dialógo.|
+|`andistro`|inicia o menu gráfico do AnDistro no modo dialogo.|
 |`andistro terminal`|inicia com a visualização padrão do terminal.|
-|`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão disponível.|
+|`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando o padrão de visualização de terminal.|
+|`andistro -u main`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando o padrão de visualização de terminal.|
+|`andistro -u main-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando a visualização gráfica.|
+|`andistro -u alpha`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes disponível usando o padrão de visualização de terminal.|
+|`andistro -u alpha-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes disponível usando a visualização gráfica.|
 |`andistro -i`|inicia as configurações de instalação do Debian.|
 |`andistro -d`|desinstala o Debian.|
 |`andistro -d andistro`|desinstala o AnDistro.|
@@ -70,7 +74,9 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`andistro --setup battery`|abre as configurações do aparelho para remover a restrição da bateria.|
 |`andistro --setup enable-dev-mode`|abre as configurações para habilitar o modo desenvolvedor.|
 |`andistro --setup open-dev-mode`|abre as configurações do modo desenvolvedor.|
-|`andistro --setup install-avnc`|abre o link para baixar o AVNC.|
+|`andistro --setup install-apps`|habilita o suporte para instalar aplicativos de fontes desconhecidas pelo Termux|
+|`andistro --setup install-avnc`|baixa e instala o AVNC na versão mais recente e estável disponível no F-Droid|
+|`andistro --setup install-termux-api`|baixa e instala o Termux:API na versão mais recente e estável disponível no F-Droid|
 |`andistro --setup autoboot`|habilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux|
 |`andistro --setup autoboot-disable`|desabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux.|
 |`andistro --setup adb-pair`|parea o termux ao ADB pela depuração por Wi-Fi.|
@@ -78,7 +84,8 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`andistro --setup disable-ghost-process-monitor`|desabilita o monitor de processos fantasma. O causador do `[Process completed (signal 9) ‐ press Enter]`.|
 |||
 |**No Debian**|opções para serem usadas exclusivamente no Debian.|
-|`andistro`|inicia com a visualização padrão do terminal.|
+|`andistro`|inicia o menu gráfico do AnDistro no modo dialogo.|
+|`andistro terminal`|inicia com a visualização padrão do terminal.|
 |`andistro --boot vnc`|inicia o servidor VNC nas definições padrão do sistema.|
 |**Opções do `andistro --boot vnc`**|Opções para serem usadas após o `andistro --boot vnc` <opções>.|
 |`--display` "LARGURAxALTURA"|opicional. Caso use, irá definir a resolução de exibição do sistema no VNC. Pode ser usada antes ou depois do `--port`.|
@@ -86,10 +93,11 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`--kill`|encerra o servidor VNC por completo.|
 |`--passwd`|define a senha do servidor VNC.|
 |`--dialog-display`|abre um menu em dialog para definir a resolução e porta ou usar resoluções pré-definidas.|
+</div>
 
 <br><br>
 
-## Por que usar o AnDistro [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#why-use-andistro-)
+## ❓ Por que usar o AnDistro [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#why-use-andistro-)
 O AnDistro é uma ferramenta desenvolvida para facilitar a instalação e configuração do Debian diretamente no Termux, de forma prática, intuitiva e automatizada. Diferente de outras alternativas, ele não oferece apenas o sistema puro, mas também realiza etapas de configuração que, em outras ferramentas, precisam ser feitas manualmente.
 
 Enquanto o Termux Proot-Distro instala apenas a imagem básica do Debian, o AnDistro baixa a versão estável mais recente diretamente do site oficial do Debian ([https://deb.debian.org/debian](https://deb.debian.org/debian)) usando a ferramenta `debootstrap`, garantindo autenticidade e segurança. Além disso, aproveita os recursos disponíveis no Termux para automatizar o processo de configuração, economizando tempo e evitando etapas repetitivas.
@@ -111,7 +119,7 @@ Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, mo
 
 <br><br>
 
-## Comparativo
+## 👀 Comparativo
 
 ||<img height="48" src="./assets/images/softwares/andistro.png"><br>AnDistro|<img height="48" src="./assets/images/softwares/andronix.png"><br>Andronix|<img height="48" src="./assets/images/softwares/proot-distro.png"><br>Termux Proot-Distro|<img height="48" src="./assets/images/softwares/udroid.png"><br>Udroid|<img height="48" src="./assets/images/softwares/userland.png"><br>UserLand|<img height="48" src="./assets/images/softwares/xodos.png"><br>Xodos|
 |-|-|-|-|-|-|-|
@@ -148,7 +156,7 @@ Por ser um projeto de código aberto, qualquer desenvolvedor pode contribuir, mo
 <br><br>
 
 
-## Como Instalar o AnDistro no Termux [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#how-to-install-andistro-it-into-termux-)
+## 📥 Como Instalar o AnDistro no Termux [![](https://img.shields.io/badge/[pt--BR]_read_in_English_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#how-to-install-andistro-it-into-termux-)
 Copie o comando abaixo e cole no Termux. Após teclar enter, o processo de instalação do AnDistro será feito. Este comando permite que semrpe instale a ultima versão instável do AnDistro.
 
 
@@ -217,38 +225,26 @@ curl -L "https://bit.ly/andistro" | bash
 </blockquote>
 </div>
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 <div id="english" lang="en-us">
 🇺🇸 English
 <img src="./assets/images/perfil.png">
@@ -267,7 +263,7 @@ curl -L "https://bit.ly/andistro" | bash
 
 <br><br>
 
-## Images
+## 🖼️ Images
 
 
 |<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
@@ -281,7 +277,7 @@ curl -L "https://bit.ly/andistro" | bash
 
 <br><br>-->
 
-## Information [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#informações-)
+## ℹ️ Information [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#informações-)
 The information may be changed if someone reports improvements.
 
 ||||
@@ -301,14 +297,18 @@ The information may be changed if someone reports improvements.
 
 <br><br>
 
-## Commands [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#comandos-)
+## ⌨️ Commands [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#comandos-)
 
 |Options|Description|
 |-|-|
 |**In the Termux**|options to be used exclusively in Termux.|
 |`andistro`|launches the AnDistro graphical menu in dialog mode.|
 |`andistro terminal`|it starts with the default terminal view.|
-|`andistro -u`|update AnDistro and the necessary packages to the latest available version.|
+|`andistro -u`|updates AnDistro and the necessary packages to the latest stable version available using the standard terminal view.|
+|`andistro -u main`|updates AnDistro and the necessary packages to the latest stable version available using the standard terminal view.|
+|`andistro -u main-dialog`|update AnDistro and the necessary packages to the latest stable version available using the graphical preview.|
+|`andistro -u alpha`|updates AnDistro and the necessary packages to the latest available testing version using the standard terminal view.|
+|`andistro -u alpha-dialog`|update AnDistro and the necessary packages to the latest available testing version using the graphical preview.|
 |`andistro -i`|it starts the Debian installation setup.|
 |`andistro -d`|uninstall Debian.|
 |`andistro -d andistro`|uninstall AnDistro.|
@@ -316,7 +316,9 @@ The information may be changed if someone reports improvements.
 |`andistro --setup battery`|open your device settings to remove the battery restriction.|
 |`andistro --setup enable-dev-mode`|open the settings to enable developer mode.|
 |`andistro --setup open-dev-mode`|opens the developer mode settings.|
-|`andistro --setup install-avnc`|open the link to download AVNC.|
+|`andistro --setup install-apps`|enables support for installing applications from unknown sources via Termux.|
+|`andistro --setup install-avnc`|download and install the latest stable version of AVNC available on F-Droid.|
+|`andistro --setup install-termux-api`|download and install the latest stable version of Termux:API available on F-Droid.|
 |`andistro --setup autoboot`|enables the option to ask if you want to start AnDistro every time Termux is opened.|
 |`andistro --setup autoboot-disable`|disables the option to ask if you want to start AnDistro every time you open Termux.|
 |`andistro --setup adb-pair`|pair Termux with ADB for Wi-Fi debugging.|
@@ -324,7 +326,8 @@ The information may be changed if someone reports improvements.
 |`andistro --setup disable-ghost-process-monitor`|disables the ghost process monitor. The cause of the `[Process completed (signal 9) ‐ press Enter]`.|
 |||
 |**In the Debian**|options to be used exclusively on Debian.|
-|`andistro`|t starts with the default terminal view.|
+|`andistro`|launches the AnDistro graphical menu in dialog mode.|
+|`andistro terminal`|it starts with the default terminal view.|
 |`andistro --boot vnc`|it starts the VNC server with the system's default settings.|
 |**Options `andistro --boot vnc`**|options to be used after `andistro --boot vnc` <options>.|
 |`--display` "WIDTHxHEIGHT"|optional. If used, it will set the system display resolution in VNC. It can be used before or after the `--port`.|
@@ -335,7 +338,7 @@ The information may be changed if someone reports improvements.
 
 <br><br>
 
-## Why use AnDistro? [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#por-que-usar-o-andistro-)
+## ❓ Why use AnDistro? [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#por-que-usar-o-andistro-)
 AnDistro is a tool developed to facilitate the installation and configuration of Debian directly in Termux, in a practical, intuitive, and automated way. Unlike other alternatives, it not only offers the pure system but also performs configuration steps that, in other tools, need to be done manually.
 
 While Termux Proot-Distro installs only the basic Debian image, AnDistro downloads the latest stable version directly from the official Debian website ([https://deb.debian.org/debian](https://deb.debian.org/debian)) using the tool `debootstrap`, ensuring authenticity and security. Furthermore, it leverages the features available in Termux to automate the configuration process, saving time and avoiding repetitive steps.
@@ -357,7 +360,7 @@ As it is an open-source project, any developer can contribute, modify, or even c
 
 <br><br>
 
-## How to Install AnDistro it into Termux [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#como-instalar-o-andistro-no-termux-)
+## 📥 How to Install AnDistro it into Termux [![](https://img.shields.io/badge/[pt--BR]_leia_em_Português_🡥-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAtOTYwIDk2MCA5NjAiIHdpZHRoPSIyNHB4IiBmaWxsPSIjZmZmZmZmIj48cGF0aCBkPSJtNDc2LTgwIDE4Mi00ODBoODRMOTI0LTgwaC04NGwtNDMtMTIySDYwM0w1NjAtODBoLTg0Wk0xNjAtMjAwbC01Ni01NiAyMDItMjAycS0zNS0zNS02My41LTgwVDE5MC02NDBoODRxMjAgMzkgNDAgNjh0NDggNThxMzMtMzMgNjguNS05Mi41VDQ4NC03MjBINDB2LTgwaDI4MHYtODBoODB2ODBoMjgwdjgwSDU2NHEtMjEgNzItNjMgMTQ4dC04MyAxMTZsOTYgOTgtMzAgODItMTIyLTEyNS0yMDIgMjAxWm00NjgtNzJoMTQ0bC03Mi0yMDQtNzIgMjA0WiIvPjwvc3ZnPg==)](#como-instalar-o-andistro-no-termux-)
 Copy the command below and paste it into Termux. After pressing enter, the AnDistro installation process will begin. This command ensures you always install the latest unstable version of AnDistro.
 
 
