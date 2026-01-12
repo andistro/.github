@@ -168,7 +168,7 @@ curl -L "https://bit.ly/andistro" | bash
 ### ▶️ Video guia de instalação e configuração do AnDistro
 
 <video width="512" controls>
-  <source src="./assets/video/pt-br_andistro_setup_termux.mp4" type="video/mp4">
+  <source src="./assets/video/pt-br_andistro_setup.mp4" type="video/mp4">
 </video>
 
 
