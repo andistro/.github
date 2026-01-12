@@ -165,6 +165,11 @@ Copie o comando abaixo e cole no Termux. Após teclar enter, o processo de insta
 curl -L "https://bit.ly/andistro" | bash
 ```
 
+### ▶️ Video guia de instalação e configuração do AnDistro
+
+<video width="512" controls>
+  <source src="./assets/video/pt-br_andistro_setup_termux.mp4" type="video/mp4">
+</video>
 
 
 <br><br>
