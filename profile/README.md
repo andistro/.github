@@ -163,7 +163,7 @@ Copie o comando abaixo e cole no Termux. Após teclar enter, o processo de insta
 
 
 ```bash
-curl -L "https://bit.ly/andistro" | bash
+curl -L "https://github.com/andistro/installer/releases/latest/download/andistro_setup" | bash
 ```
 
 ### ▶️ Video guia de instalação e configuração do AnDistro
@@ -372,7 +372,7 @@ Copy the command below and paste it into Termux. After pressing enter, the AnDis
 
 
 ```bash
-curl -L "https://bit.ly/andistro" | bash
+curl -L "https://github.com/andistro/installer/releases/latest/download/andistro_setup" | bash
 ```
 
 
