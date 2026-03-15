@@ -67,8 +67,10 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`andistro -u`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando o padrão de visualização de terminal.|
 |`andistro -u main`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando o padrão de visualização de terminal.|
 |`andistro -u main-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão estável disponível usando a visualização gráfica.|
-|`andistro -u alpha`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes disponível usando o padrão de visualização de terminal.|
-|`andistro -u alpha-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes disponível usando a visualização gráfica.|
+|`andistro -u alpha`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes alpha disponível usando o padrão de visualização de terminal.|
+|`andistro -u alpha-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão em testes alpha disponível usando a visualização gráfica.|
+|`andistro -u beta`|atualiza o AnDistro e os pacotes necessários para a ultima versão em beta testes disponível usando o padrão de visualização de terminal.|
+|`andistro -u beta-dialog`|atualiza o AnDistro e os pacotes necessários para a ultima versão em beta testes disponível usando a visualização gráfica.|
 |`andistro -i`|inicia as configurações de instalação do Debian.|
 |`andistro -d`|desinstala o Debian.|
 |`andistro -d andistro`|desinstala o AnDistro.|
@@ -77,17 +79,19 @@ As informações podem ser alteradas caso alguém informe melhorias.
 |`andistro --setup enable-dev-mode`|abre as configurações para habilitar o modo desenvolvedor.|
 |`andistro --setup open-dev-mode`|abre as configurações do modo desenvolvedor.|
 |`andistro --setup install-apps`|habilita o suporte para instalar aplicativos de fontes desconhecidas pelo Termux|
-|`andistro --setup install-avnc`|baixa e instala o AVNC na versão mais recente e estável disponível no F-Droid|
+|`andistro --setup install-vnc`|baixa e instala aplicativos VNC pela Play Store ou pelo AnDistro usando a api do F-Droid|
 |`andistro --setup install-termux-api`|baixa e instala o Termux:API na versão mais recente e estável disponível no F-Droid|
 |`andistro --setup autoboot`|habilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux|
 |`andistro --setup autoboot-disable`|desabilita a opção para que haja uma pergunta se deseja iniciar o AnDistro toda vez que abrir o Termux.|
 |`andistro --setup adb-pair`|parea o termux ao ADB pela depuração por Wi-Fi.|
 |`andistro --setup adb-connect`|conecta o Termux ao ADB pela depuração por Wi-Fi.|
 |`andistro --setup disable-ghost-process-monitor`|desabilita o monitor de processos fantasma. O causador do `[Process completed (signal 9) ‐ press Enter]`.|
+|`andistro --setup import-proot-distro-debian`| importa (copia) o Debian do Proot-Distro para o AnDistro e faz as configurações necessárias para funcionar |
 |||
 |**No Debian**|opções para serem usadas exclusivamente no Debian.|
 |`andistro`|inicia o menu gráfico do AnDistro no modo dialogo.|
 |`andistro terminal`|inicia com a visualização padrão do terminal.|
+|`andistro --termux-cmd`| Permite executar comandos do terminal Termux dentro do terminal do Debian.|
 |`andistro --boot vnc`|inicia o servidor VNC nas definições padrão do sistema.|
 |**Opções do `andistro --boot vnc`**|Opções para serem usadas após o `andistro --boot vnc` <opções>.|
 |`--display` "LARGURAxALTURA"|opicional. Caso use, irá definir a resolução de exibição do sistema no VNC. Pode ser usada antes ou depois do `--port`.|
@@ -314,8 +318,10 @@ The information may be changed if someone reports improvements.
 |`andistro -u`|updates AnDistro and the necessary packages to the latest stable version available using the standard terminal view.|
 |`andistro -u main`|updates AnDistro and the necessary packages to the latest stable version available using the standard terminal view.|
 |`andistro -u main-dialog`|update AnDistro and the necessary packages to the latest stable version available using the graphical preview.|
-|`andistro -u alpha`|updates AnDistro and the necessary packages to the latest available testing version using the standard terminal view.|
-|`andistro -u alpha-dialog`|update AnDistro and the necessary packages to the latest available testing version using the graphical preview.|
+|`andistro -u alpha`|updates AnDistro and the necessary packages to the latest available alpha testing version using the standard terminal view.|
+|`andistro -u alpha-dialog`|update AnDistro and the necessary packages to the latest available alpha testing version using the graphical preview.|
+|`andistro -u beta`|updates AnDistro and the necessary packages to the latest available beta testing version using the standard terminal view.|
+|`andistro -u beta-dialog`|update AnDistro and the necessary packages to the latest available beta testing version using the graphical preview.|
 |`andistro -i`|it starts the Debian installation setup.|
 |`andistro -d`|uninstall Debian.|
 |`andistro -d andistro`|uninstall AnDistro.|
@@ -324,17 +330,19 @@ The information may be changed if someone reports improvements.
 |`andistro --setup enable-dev-mode`|open the settings to enable developer mode.|
 |`andistro --setup open-dev-mode`|opens the developer mode settings.|
 |`andistro --setup install-apps`|enables support for installing applications from unknown sources via Termux.|
-|`andistro --setup install-avnc`|download and install the latest stable version of AVNC available on F-Droid.|
+|`andistro --setup install-vnc`|download and install VNC applications from the Play Store or AnDistro using the F-Droid API.|
 |`andistro --setup install-termux-api`|download and install the latest stable version of Termux:API available on F-Droid.|
 |`andistro --setup autoboot`|enables the option to ask if you want to start AnDistro every time Termux is opened.|
 |`andistro --setup autoboot-disable`|disables the option to ask if you want to start AnDistro every time you open Termux.|
 |`andistro --setup adb-pair`|pair Termux with ADB for Wi-Fi debugging.|
 |`andistro --setup adb-connect`|connect Termux to ADB via Wi-Fi debugging.|
 |`andistro --setup disable-ghost-process-monitor`|disables the ghost process monitor. The cause of the `[Process completed (signal 9) ‐ press Enter]`.|
+|`andistro --setup import-proot-distro-debian`| import (copy) Debian from Proot-Distro to AnDistro and make the necessary configurations for it to work.|
 |||
 |**In the Debian**|options to be used exclusively on Debian.|
 |`andistro`|launches the AnDistro graphical menu in dialog mode.|
 |`andistro terminal`|it starts with the default terminal view.|
+|`andistro --termux-cmd`| allows you to run Termux terminal commands within the Debian terminal.|
 |`andistro --boot vnc`|it starts the VNC server with the system's default settings.|
 |**Options `andistro --boot vnc`**|options to be used after `andistro --boot vnc` <options>.|
 |`--display` "WIDTHxHEIGHT"|optional. If used, it will set the system display resolution in VNC. It can be used before or after the `--port`.|
