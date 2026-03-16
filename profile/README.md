@@ -29,8 +29,17 @@
 ## 🖼️ Imagens
 
 
-|<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
-|-|-|
+|<img height="512" src="./assets/images/andistro_setup.jpg" />|<img height="512" src="./assets/images/en-US_terms.jpg" />|<img height="512" src="./assets/images/en-US_andistro_menu_stable.jpg" />|<img height="512" src="./assets/images/en-US_storange_permission.jpg" />|
+|-|-|-|-|
+|<img height="512" src="./assets/images/en-US_battery_optimization.jpg" />|<img height="512" src="./assets/images/en-US_battery_optimization_toast.jpg" />|<img height="512" src="./assets/images/en-US_install_apps_permission.jpg" />|<img height="512" src="./assets/images/en-US_install_apps_permission_02.jpg" />|
+|<img height="512" src="./assets/images/en-US_install_termux_api.jpg" />|<img height="512" src="./assets/images/en-US_download_termux_api.jpg" />|<img height="512" src="./assets/images/en-US_install_vnc.jpg" />|<img height="512" src="./assets/images/en-US_install_vnc_02.jpg" />|
+|<img height="512" src="./assets/images/en-US_install_vnc_03.jpg" />|<img height="512" src="./assets/images/en-US_download_avnc.jpg" />|<img height="512" src="./assets/images/en-US_autoboot_option.jpg" />|<img height="512" src="./assets/images/en-US_andistro_setup_finish.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_menu_stable.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_01.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_02.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_03.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_04.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_05.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_06.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_07.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_08.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_09.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_10.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_11.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_12.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_13.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_14.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_15.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_16.jpg" />|<img height="512" src="./assets/images/en-US_andistro_menu_debian.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_start.jpg" />|<img height="512" src="./assets/images/en-US_andistro_open_vnc.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_debian_light.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_light_02.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_light_03.jpg" />|<img height="512" src="" />|
 
 <br><br>
 
@@ -280,8 +289,17 @@ https://github.com/user-attachments/assets/f1cc77ae-933a-4f87-ad08-11c07da5c0d1
 ## 🖼️ Images
 
 
-|<img height="512" src="./assets/images/debian_xfce.png" />|<img height="512" src="./assets/images/debian_xfce_info.png" />|
-|-|-|
+|<img height="512" src="./assets/images/andistro_setup.jpg" />|<img height="512" src="./assets/images/en-US_terms.jpg" />|<img height="512" src="./assets/images/en-US_andistro_menu_stable.jpg" />|<img height="512" src="./assets/images/en-US_storange_permission.jpg" />|
+|-|-|-|-|
+|<img height="512" src="./assets/images/en-US_battery_optimization.jpg" />|<img height="512" src="./assets/images/en-US_battery_optimization_toast.jpg" />|<img height="512" src="./assets/images/en-US_install_apps_permission.jpg" />|<img height="512" src="./assets/images/en-US_install_apps_permission_02.jpg" />|
+|<img height="512" src="./assets/images/en-US_install_termux_api.jpg" />|<img height="512" src="./assets/images/en-US_download_termux_api.jpg" />|<img height="512" src="./assets/images/en-US_install_vnc.jpg" />|<img height="512" src="./assets/images/en-US_install_vnc_02.jpg" />|
+|<img height="512" src="./assets/images/en-US_install_vnc_03.jpg" />|<img height="512" src="./assets/images/en-US_download_avnc.jpg" />|<img height="512" src="./assets/images/en-US_autoboot_option.jpg" />|<img height="512" src="./assets/images/en-US_andistro_setup_finish.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_menu_stable.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_01.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_02.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_03.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_04.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_05.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_06.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_07.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_08.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_09.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_10.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_11.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_12.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_13.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_14.jpg" />|<img height="512" src="./assets/images/en-US_andistro_install_15.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_install_16.jpg" />|<img height="512" src="./assets/images/en-US_andistro_menu_debian.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_start.jpg" />|<img height="512" src="./assets/images/en-US_andistro_open_vnc.jpg" />|
+|<img height="512" src="./assets/images/en-US_andistro_debian_light.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_light_02.jpg" />|<img height="512" src="./assets/images/en-US_andistro_debian_light_03.jpg" />|<img height="512" src="" />|
 
 <br><br>
 
