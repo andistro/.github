@@ -246,6 +246,14 @@ https://github.com/user-attachments/assets/f1cc77ae-933a-4f87-ad08-11c07da5c0d1
 </div>
 
 #
+
+<a href="https://github.com/andistro/installer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=andistro/installer" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+#
 #
 #
 #
